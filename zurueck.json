@@ -1,0 +1,4 @@
+require("Storage").write("zurueck.info",{
+  "name":"MeineApp",
+  "src":"zurueck.app.js"
+});
